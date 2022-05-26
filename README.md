@@ -11,6 +11,6 @@ Known issues:
 
 
 
-# The eiffel tower
+# The Eiffel Tower
 
 ![eiffel tower](https://user-images.githubusercontent.com/96302110/165160112-1e23cbc3-af04-4b4e-aa02-115c3e7fd922.png)
