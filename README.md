@@ -1,7 +1,7 @@
 # Simplify
 Creates a simplified version of a given image by finding the high contrast points. Alternatively, finds edges.
 
-See also: [Simplify Colors](https://github.com/EgeEken/Simplify-Color)
+See also: [Simplify Colors](https://github.com/EgeEken/Simplify-Color), [Image Processing](https://github.com/EgeEken/Image-Processing)
 
 Known issues:
 - Only square images (with the same horizontal and vertical length) work
