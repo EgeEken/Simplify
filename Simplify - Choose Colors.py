@@ -87,9 +87,9 @@ def create_contrast_matrix(img):
     img_colorpixels = load(img_colors)
     width = img.size[0]
     height = img.size[1]
-    colormatrix = np.zeros((width,height))
+    colormatrix = np.zeros((height,width))
     colormatrix = np.array(colormatrix, dtype=tuple)
-    contrastmatrix = np.zeros((width,height))
+    contrastmatrix = np.zeros((height,width))
     for x in range(width):
         for y in range(height):
             colormatrix[y, x] = img_colorpixels[x,y]
